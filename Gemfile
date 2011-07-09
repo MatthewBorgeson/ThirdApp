@@ -29,6 +29,7 @@ gem 'sqlite3'
 # group :development, :test do
 #   gem 'webrat'
 # end
+<<<<<<< HEAD
 
 group :development do
   gem 'rspec-rails'
@@ -49,3 +50,5 @@ end
 
 
 
+=======
+>>>>>>> f0a6509e541c33c0bc1660914837a1e8673aeae3
